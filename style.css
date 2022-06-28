@@ -78,3 +78,9 @@ header {
     margin-left:10px;
     cursor:pointer;
 }
+
+.right-section a  {
+    padding-right:18px;
+    text-decoration:none;
+    color:black;
+}
